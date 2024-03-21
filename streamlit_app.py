@@ -91,8 +91,7 @@ st.markdown('''
 ## Education
 ''')
 
-txt('**M.Sc. (Masters in Science) in Computer Science,
-'2002-2006')
+txt('**M.Sc. (Masters in Science) in Computer Science**','2002-2006')
 st.markdown('''
 - Shining Star Award for conducting various QE trainings in 2021.
 - Tavant Excellence Award for Customer Focus (2013 and 2022).
@@ -104,8 +103,7 @@ st.markdown('''
 ## Work Experience
 ''')
 
-txt('**Sr. SDET Manager - Quality Engineering**, Tavant',
-'2006-Present')
+txt('**Sr. SDET Manager - Quality Engineering**', 'Tavant','2006-Present')
 st.markdown('''
 - Ensure test automation is followed and test scripts are executed on a nightly basis by deploying continuous integration model. Understand how all elements of the application ecosystem work together and developing QA approaches that fit the overall strategy.
 - Actively takes part in the talent hiring process as well as help employees to plan and develop their career path.
