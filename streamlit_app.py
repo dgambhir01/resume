@@ -44,7 +44,7 @@ st.markdown("""
         <a class="nav-link" href="#work-experience">Work Experience</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#Certifications">Certifications</a>
+        <a class="nav-link" href="#Certifications">Certifications And Awards</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#social-media">Social Media</a>
@@ -92,18 +92,14 @@ st.markdown('''
 ''')
 
 txt('**M.Sc. (Masters in Science) in Computer Science**','2002-2006')
-st.markdown('''
-- Shining Star Award for conducting various QE trainings in 2021.
-- Tavant Excellence Award for Customer Focus (2013 and 2022).
-- Spot Award for leading API automation CoE in 2020.
-''')
+
 
 #####################
 st.markdown('''
 ## Work Experience
 ''')
 
-txt('**Sr. SDET Manager - Quality Engineering**', 'Tavant','2006-Present')
+txt('**Sr. SDET Manager - Quality Engineering at Tavant**','2006-Present')
 st.markdown('''
 - Ensure test automation is followed and test scripts are executed on a nightly basis by deploying continuous integration model. Understand how all elements of the application ecosystem work together and developing QA approaches that fit the overall strategy.
 - Actively takes part in the talent hiring process as well as help employees to plan and develop their career path.
@@ -113,12 +109,17 @@ st.markdown('''
 
 #####################
 st.markdown('''
-## Certifications
+## Certifications And Awards
 ''')
 txt('**Microsoft Azure Fundamentals (AZ -900)**')
 txt('**Prince 2 Foundation and Practitioner Certified**')
 txt('**ISTQB Certified Professional (ITB)**')
 txt('**CSTM Certified Professional (GAQM)**')
+st.markdown('''
+- Shining Star Award for conducting various QE trainings in 2021.
+- Tavant Excellence Award for Customer Focus (2013 and 2022).
+- Spot Award for leading API automation CoE in 2020.
+''')
 
 
 
