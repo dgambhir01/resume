@@ -8,7 +8,6 @@ with open("style.css") as f:
 # Header 
 st.write('''
 # Dheeraj Gambhir, Senior Manager- Quality Engineering.
-##### *Resume* 
 ''')
 
 image = Image.open('DG.png')
@@ -17,8 +16,11 @@ st.image(image, width=150)
 st.markdown('## Summary', unsafe_allow_html=True)
 st.info('''
 - 17+ years of experience in Quality Management with a soundtrack record of delivering test solutions globally. Proven ability to meet deadlines, coordinate work, implement automated solutions, and test strategies. Having effective leadership, negotiating and communication skills. 
-- •	Proficient in Test Automation using Selenium and RestAssured (Java, C#, WebDriver, Cucumber/BDD, TestNG, NUnit, Spec Flow, Maven, Azure DevOps, Jenkins, Git, Docker etc.). Over 8 years of experience in Test Automation.
-- •	Experience in designing Automation Framework using open-source tools and Integration of CI for scheduled test execution.
+- Spearheading a high-performing QA team, ensuring the delivery of top-notch software products.
+- Possessed in-depth understanding of product architecture and its impact on feature and system testing.
+- Proficient in utilizing a wide range of programming languages and frameworks, including Java, JavaScript, C#, Selenium, Appium, TestNG, and Cucumber.
+- Experience in designing Automation Framework using open-source tools and possess extensive experience with DevOps technologies such as AzureDevOps, Docker, Terraform, and Jenkins.
+- Spearheaded successful cloud migration projects and developed a long-term QA vision to implement industry best practices.
 ''')
 
 #####################
@@ -44,7 +46,7 @@ st.markdown("""
         <a class="nav-link" href="#work-experience">Work Experience</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#certifications">Certifications And Awards</a>
+        <a class="nav-link" href="#certifications-and-awards">Certifications And Awards</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#skills">Skills</a>
