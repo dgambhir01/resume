@@ -111,10 +111,15 @@ st.markdown('''
 st.markdown('''
 ## Certifications And Awards
 ''')
-txt('1','**Microsoft Azure Fundamentals (AZ -900)**')
-txt('2','**Prince 2 Foundation and Practitioner Certified**')
-txt('3','**ISTQB Certified Professional (ITB)**')
-txt('4','**CSTM Certified Professional (GAQM)**')
+txt('**Certifications**','')
+st.markdown('''
+- Microsoft Azure Fundamentals (AZ -900)
+- Prince 2 Foundation and Practitioner Certified
+- ISTQB Certified Professional (ITB)
+- CSTM Certified Professional (GAQM)
+''')
+
+txt('**Awards**','')
 st.markdown('''
 - Shining Star Award for conducting various QE trainings in 2021.
 - Tavant Excellence Award for Customer Focus (2013 and 2022).
